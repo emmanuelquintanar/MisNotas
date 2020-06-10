@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MisNotas</string>
+    <string name="lb_titulo">Nueva Nota</string>
+    <string name="hint_titulo">Titulo</string>
+    <string name="hint_descripcion">Descripcion</string>
+    <string name="btn_guardar">Guardar</string>
+</resources>
